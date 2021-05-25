@@ -1,0 +1,5 @@
+.vl{border-left:2px solid red}
+@media screen and (max-width: 600px){
+    .img-responsive img{margin-right: 150px;}
+    
+}
